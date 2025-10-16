@@ -1,1 +1,3 @@
 # El-panning
+Es una técnica muy eficaz para representar el movimiento de un sujeto, sobre todo si es perpendicular al eje de la toma. El sujeto aparece más o menos nítido, mientras que el fondo sale movido.
+La elección de la distancia focal depende de la relación sujeto/fondo que se desea obtener. Pero es mejor prescindir de grandes angulares de menos de 35 mm, que obligan a acercarse demasiado al sujeto en movimiento o hacen que éste aparezca demasiado pequeño en el fotograma, y de teleobjetivos de más de 85 mm, con los cuales, a no ser que se utilice un trípode con cabeza panorámica (solución bastante incómoda), se corre eI riesgo de extender el movido a toda la imagen.
